@@ -1,8 +1,0 @@
-﻿[Run Information]
-Version=CSPro 8.0
-AppType=Entry
-Description=Estadísticas de Suicidios 
-
-[Files]
-Application=.\ENTRY.ent
-InputData=..\DATA\DATA.dat

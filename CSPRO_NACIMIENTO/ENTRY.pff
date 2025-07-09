@@ -1,0 +1,8 @@
+﻿[Run Information]
+Version=CSPro 8.0
+AppType=Entry
+Description=Estadisticas de Nacimiento
+
+[Files]
+Application=.\ENTRY.ent
+InputData=..\DATA\DATA.dat
